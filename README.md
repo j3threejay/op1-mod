@@ -68,7 +68,7 @@ This is its own patch on stock 246. It doesn't stack with op1r, op1-workshop or 
 
 ## How it was built
 
-Written in C for the OP-1's Blackfin with a lot of help from Claude, tested in an OP-1 emulator first, then on two OP-1s of different hardware revisions (including the kind that crashed on the original scale patch). Every effect was rendered and picked by ear before it went on the unit.
+Written in C for the OP-1's Blackfin with a lot of help from Claude, tested in an OP-1 emulator first, then on real hardware: earlier builds on two OP-1s of different hardware revisions (including the kind that crashed on the original scale patch), 1.0's new engine and effects (KEYS, MIMIC, LINGER, SPIN CYCLE) on one so far. If yours acts up, open an issue with which OP-1 you have. Every effect was rendered and picked by ear before it went on the unit.
 
 ## Credits
 
